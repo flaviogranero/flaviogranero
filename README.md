@@ -1,10 +1,12 @@
 # Hey! 🖖 I'm Flávio Granero
 
-Senior Software Engineer with 18 years of experience building and scaling Web Applications.
+Senior Software Engineer from Brazil that loves coding Ruby, TypeScript and React.
 
-Since 2008 working remotely at USA companies, acting as a Full Stack Developer and Team Lead.
+In 2008 I got my first Ruby full-time job and I keep working remotely at USA companies since then, delivering projects for companies like Optimal, Viacom, FoxNews, [Whisper](https://whisper.sh), [Eventene](https://eventene.com) and [Hubstaff](https://hubstaff.com).
 
-I love coding Ruby, TypeScript and React.
+I live in Londrina, Brazil with my wife, son and dog. Speak Portuguese (Native) and English (Fluent).
+
+## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,javascript,typescript,react,redux,vue,postgres,aws,docker)](https://skillicons.dev)
 
